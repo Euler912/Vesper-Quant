@@ -1,3 +1,2 @@
-# Vesper Capital
-Vesper’s vision is to transform advanced mathematics into a practical toolkit for financial markets. 
-The project focuses on applying Robust Optimization algorithms to develop trading strategies that go beyond 'on-paper' profitability, effectively navigating the statistical noise and inherent uncertainty of the capital markets.
+Our vision is to push the boundaries of applied mathematics through rigorous research and continuous innovation.
+Mission: Transforming advanced mathematical concepts into practical, high-performance toolkits for financial markets. We specialize in leveraging Robust Optimization to develop trading strategies designed to transcend theoretical profitability, effectively navigating the statistical noise and inherent uncertainty of global capital markets.
